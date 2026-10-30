@@ -33,4 +33,4 @@ If you use this code, please cite:
 
 Shuhang Li, Huanchen Zhai, Francesco A. Evangelista, and Timothy C. Berkelbach,
 “Reaching the thermodynamic limit of periodic CCSD cohesive energies and band gaps,”
-npj Comput. Mater. [Paper](https://doi.org/10.1038/s41524-026-02372-8), 2026.
+npj Comput. Mater (2026). [Paper](https://doi.org/10.1038/s41524-026-02372-8)
